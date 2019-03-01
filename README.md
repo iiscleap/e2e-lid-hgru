@@ -1,2 +1,2 @@
 # Relevance-for-LRE
-Contains code used in my MTech project
+Hierarchical GRU model implementation for LRE.
